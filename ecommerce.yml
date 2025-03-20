@@ -1,6 +1,6 @@
 token:
   expiration_time: 3600000
-  secret: holdupthisisaverysecuresecretkeyforjwt256bits
+  secret: holdupthisisaverysecuresecretkeyforjwt256bits_new
 
 gateway:
   ip: 192.168.219.79
