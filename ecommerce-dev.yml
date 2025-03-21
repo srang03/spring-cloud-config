@@ -1,6 +1,6 @@
 token:
   expiration_time: 360000043
-  secret: holdupthisisaverysecuresecretkeyforjwt256bits_2503211343_DEV
+  secret: holdupthisisaverysecuresecretkeyforjwt256bits_rabbitmq_
 
 gateway:
   ip: 192.168.219.79
