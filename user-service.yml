@@ -1,0 +1,11 @@
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: sa
+
+  token:
+  expiration_time: 360000043
+  secret: holdupthisisaverysecuresecretkeyforjwt256bits_rabbitmq_
+
+gateway:
+  ip: 192.168.219.79
